@@ -12,7 +12,7 @@
   
 - Exercício 6 😄⚡
 
-Explique o que é um vetor, uma matriz e um cubo em estrutura de dados.
+### Explique o que é um vetor, uma matriz e um cubo em estrutura de dados.
 ```
 As estuturas de dados são formas de armazenamento e organização de dados na memória de um computador para ser usado de forma mais eficiente, no caso dos vetores, matrizes e os cubos são uma estrutura homogênea que são chamadas de arrays fazendo ser possível acessar elementos individuas através da posição de índice.
 Os arrays são separados em tipos:
